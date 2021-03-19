@@ -1,3 +1,8 @@
  .IMAGEN{
-    width: 50px;
+    width: 60px;
+    height: 50px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
 }
